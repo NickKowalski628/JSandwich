@@ -1,6 +1,6 @@
 Nicholas Kowalski
-Advanced Java Programming
-COP 2805C
+CEN 3024C
+Software Development I
 
 This program will allow the user to choose a sandwich combination of three meats and three breads with the price changing dependent on the chosen meat. 
 In this assignment I dove deeper into utilizing javax.swing to create a simple GUI that the user could use to interact and "create" their ideal sandwich.
